@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/Heptagram-Bot/api/compare/v0.6.0...v0.7.0) (2021-10-01)
+
+
+### Features
+
+* docs for docsify ([4780f28](https://github.com/Heptagram-Bot/api/commit/4780f28da5428ee5db77fedf13eeda6bbcba8c80))
+
+
+
 # [0.6.0](https://github.com/Heptagram-Bot/api/compare/v0.5.0...v0.6.0) (2021-09-30)
 
 
