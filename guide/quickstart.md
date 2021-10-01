@@ -115,4 +115,3 @@ You should set the `data-app` attribute if you changed `el`:
 ```
 
 Compare [el configuration](configuration.md#el).
-
